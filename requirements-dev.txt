@@ -1,0 +1,5 @@
+# Build and test dependencies (not shipped to users)
+-r requirements.txt
+pyinstaller==6.22.3
+pytest==9.2.0
+fpdf2==2.8.9

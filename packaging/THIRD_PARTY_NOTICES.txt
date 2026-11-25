@@ -1,0 +1,21 @@
+PDF Parser bundles the following open-source components. All allow
+redistribution. Full licence texts are available at the linked projects.
+
+Component          Licence                         Project
+-----------------  ------------------------------  -------------------------------------------
+Python 3.12        PSF License                     https://www.python.org
+pdfplumber         MIT                             https://github.com/jsvine/pdfplumber
+pdfminer.six       MIT                             https://github.com/pdfminer/pdfminer.six
+pypdfium2          Apache-2.0 / BSD-3-Clause       https://github.com/pypdfium2-team/pypdfium2
+PDFium             BSD-3-Clause                    https://pdfium.googlesource.com/pdfium
+Pillow             MIT-CMU (HPND)                  https://python-pillow.org
+charset-normalizer MIT                             https://github.com/jawah/charset_normalizer
+cryptography       Apache-2.0 / BSD-3-Clause       https://github.com/pyca/cryptography
+Tcl/Tk             Tcl/Tk License (BSD-style)      https://www.tcl.tk
+Tesseract OCR      Apache-2.0                      https://github.com/tesseract-ocr/tesseract
+tessdata (eng,osd) Apache-2.0                      https://github.com/tesseract-ocr/tessdata
+Leptonica          BSD-2-Clause                    http://www.leptonica.org
+Windows build of
+Tesseract          Apache-2.0 (+ bundled libs)     https://github.com/UB-Mannheim/tesseract
+PyInstaller        GPL-2.0 with bootloader         https://pyinstaller.org
+bootloader         exception (allows any use)
